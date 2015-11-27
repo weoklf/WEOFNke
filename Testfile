@@ -1,0 +1,6 @@
+#1st File
+
+x = 24
+y = 23
+w = x*y
+print w
